@@ -8,7 +8,7 @@ public class Logic {
 	}
 
 	public void pintar() {
-
+			// el pintar es cool
 	}
 
 	public void press() {
