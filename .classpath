@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Ejercicio_S11A/src"/>
+	<classpathentry kind="lib" path="Ejercicio_S11A/lib/core.jar"/>
+	<classpathentry kind="lib" path="Git_Martinez/lib/core.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
