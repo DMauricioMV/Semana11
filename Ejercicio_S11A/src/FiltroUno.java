@@ -10,6 +10,6 @@ public FiltroUno(int x, int y, int alto, int ancho){
 	this.y=y;
 	this.ancho=ancho;
 	this.alto= alto;
-	
+	// filtro 1
 }
 }
