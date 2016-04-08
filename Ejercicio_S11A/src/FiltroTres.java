@@ -1,7 +1,13 @@
+import processing.core.PImage;
 
 public class FiltroTres {
-	
-	public FiltroTres() {
-// :v
+	private PImage img;
+
+	public FiltroTres(PImage imgRec) {
+		this.img = imgRec;
+	}
+
+	public void filter() {
+
 	}
 }
